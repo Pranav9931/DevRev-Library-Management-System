@@ -1,0 +1,29 @@
+{
+  "name": "library-management-system-devrev-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/netlify-lambda serve src",
+    "build": "./node_modules/.bin/netlify-lambda build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/923aryan/Library-Management-system-DEVREV-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/923aryan/Library-Management-system-DEVREV-/issues"
+  },
+  "homepage": "https://github.com/923aryan/Library-Management-system-DEVREV-#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "netlify-lambda": "^2.0.16",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
