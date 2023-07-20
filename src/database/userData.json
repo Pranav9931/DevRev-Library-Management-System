@@ -1,0 +1,55 @@
+{
+    "users": [
+      {
+        "username": "example_user",
+        "password_hash": "hashed_password_here",
+        "email": "example_user@example.com",
+        "full_name": "John Doe",
+        "age": 30,
+        "gender": "Male",
+        "country": "United States",
+        "phone": "+1 (555) 123-4567"
+      },
+      {
+        "username": "jane_doe",
+        "password_hash": "hashed_password_here",
+        "email": "jane_doe@example.com",
+        "full_name": "Jane Doe",
+        "age": 25,
+        "gender": "Female",
+        "country": "Canada",
+        "phone": "+1 (555) 987-6543"
+      },
+      {
+        "username": "bob_smith",
+        "password_hash": "hashed_password_here",
+        "email": "bob_smith@example.com",
+        "full_name": "Bob Smith",
+        "age": 40,
+        "gender": "Male",
+        "country": "United Kingdom",
+        "phone": "+44 20 1234 5678"
+      },
+      {
+        "username": "emily_jones",
+        "password_hash": "hashed_password_here",
+        "email": "emily_jones@example.com",
+        "full_name": "Emily Jones",
+        "age": 28,
+        "gender": "Female",
+        "country": "Australia",
+        "phone": "+61 2 8765 4321"
+      },
+      {
+        "username": "alex_wong",
+        "password_hash": "hashed_password_here",
+        "email": "alex_wong@example.com",
+        "full_name": "Alex Wong",
+        "age": 35,
+        "gender": "Male",
+        "country": "Singapore",
+        "phone": "+65 6123 4567"
+      }
+    ]
+  }
+  
